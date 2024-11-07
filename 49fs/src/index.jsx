@@ -11,6 +11,8 @@ import Homework04 from "./homeworks/homework04/homework04";
 import Lesson04 from "./lessons/lesson04/lesson04";
 import Lesson05 from "./lessons/lesson05/Lesson05";
 import Homework05 from "./homeworks/homework05/Homework05";
+import Home from "./homeworks/homework01/Home";
+import Lesson02 from "./lessons/lesson02/Lesson02";
 
 
 
@@ -24,11 +26,12 @@ root.render(
     {/* самозакрывающийся тег с именем функции-компонента */}
     {/* не забудьте убедиться что у вас отработал импорт */}
     <Lesson01/>
-    
+    <Home/>
     <Homework02/>
     <Homework03/>
     <Homework04/>
     <Homework05/>
+    <Lesson02/>
     <Lesson03/>
     <Lesson04/>
     <Lesson05/>
