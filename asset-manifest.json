@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.71b16f4c.css",
+    "main.js": "./static/js/main.ec2063bf.js",
+    "static/media/reise.jpg": "./static/media/reise.b72a013f711c6cdf5b19.jpg",
+    "index.html": "./index.html",
+    "main.71b16f4c.css.map": "./static/css/main.71b16f4c.css.map",
+    "main.ec2063bf.js.map": "./static/js/main.ec2063bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71b16f4c.css",
+    "static/js/main.ec2063bf.js"
+  ]
+}
