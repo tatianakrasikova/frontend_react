@@ -10,6 +10,7 @@ import Homework03 from "./homeworks/homework03/Homework03";
 import Homework04 from "./homeworks/homework04/homework04";
 import Lesson04 from "./lessons/lesson04/lesson04";
 import Lesson05 from "./lessons/lesson05/Lesson05";
+import Homework05 from "./homeworks/homework05/Homework05";
 
 
 
@@ -27,6 +28,7 @@ root.render(
     <Homework02/>
     <Homework03/>
     <Homework04/>
+    <Homework05/>
     <Lesson03/>
     <Lesson04/>
     <Lesson05/>
