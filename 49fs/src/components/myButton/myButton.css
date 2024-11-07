@@ -1,0 +1,38 @@
+.my-button {
+  color: white;
+  cursor: pointer;
+  margin: 3px;
+  padding: 7px 15px;
+  border-radius: 8px;
+  border: none;
+}
+
+.btn-primary {
+  background-color:  rgb(115, 115, 253);
+}
+
+.btn-danger {
+  background-color:  rgb(253, 70, 70);
+}
+
+.btn-primary:hover {
+  background-color: rgb(184, 184, 255);
+
+}
+
+.btn-danger:hover {
+  background-color: rgb(255, 145, 145);
+}
+.my-button {
+  padding: 10px 15px;
+  background-color: #db70c77c; /* сиреневый цвет */
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.my-button:hover {
+  background-color: #7a5fb8; /* чуть темнее для эффекта наведения */
+}
